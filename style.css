@@ -1,0 +1,19 @@
+body {
+  background-color: #64706c;
+}
+
+h1 {
+  color: #c7ad88;
+  margin-bottom: 50px;
+}
+.weatherLine {
+  padding-bottom: 20px;
+}
+
+#weather {
+  color: #ede9ce;
+}
+
+#note {
+ color: #8b0000;
+}
